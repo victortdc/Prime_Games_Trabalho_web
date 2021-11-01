@@ -1,0 +1,104 @@
+body{
+    background-color: #2C2541;
+}
+
+.navbar a{
+    color: #FFF !important;
+}
+
+.navbar p{
+    color: #FFF !important;
+}
+
+.navbar-dark{
+    background-color: #262037;
+}
+
+.transparent{
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+
+.my-6{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.h1{
+    font-family: Freight Sans;
+    font-weight: bold;
+    color: white;
+}
+#img1{
+    max-width: 100%;
+    height: auto;
+}
+#img_zap{
+    max-width: 10%;
+    height: auto;
+    float: right;
+   
+}
+#carrosselItem{
+    margin-left: 4%;
+    max-width: 65%;
+    height: auto;
+}
+.carousel-inner{
+    padding-left: 21.25%;
+}
+.carousel-control-prev{
+    margin-left: 18%;
+}
+.carousel-control-next{
+    margin-right: 18%;
+}
+
+.conteiner-a{
+    margin-right: 5%;
+    display: inline-block;
+    width: 40%;
+}
+.conteiner-b{
+    display: inline-block;
+    width: 40%;
+}
+.conteiner-a-titulo{
+    margin-top: 3%;
+    margin-right: 5%;
+    display: inline-block;
+    width: 40%;
+}
+.conteiner-b-titulo{
+    margin-top: 3%;
+    display: inline-block;
+    width: 40%;
+}
+#img-equipe{
+    width: 80%;
+    height: auto;
+    margin-bottom: 3%;
+}
+#logo-facebook{
+    display:inline;
+    margin-right: 3%;
+}
+#logo-instagram{
+    display: inline;
+}
+#img-logo{
+    width: 8%;
+}
+.p{
+    font-family: Freight Sans;
+    font-size: 24pt;
+    font-weight: lighter;
+    text-align: justify;
+    color: white;
+}
+.card{
+    margin-left: 7%;
+    margin-top: 3%;
+    margin-bottom: 4%;
+}
+
+.row {margin: 0}

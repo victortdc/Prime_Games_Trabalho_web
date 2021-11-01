@@ -1,0 +1,41 @@
+form {
+    max-width: 40%;
+}
+
+input, textarea {
+    width: 75.5%;
+    padding: 10px;
+    color: black;
+    margin-left: 3%;
+    margin-top: 3%;
+    border: 1px solid;
+}
+
+input:hover, textarea:hover, input:focus, textarea:focus {
+    border-color: transparent;
+    background-color: #262037;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.enviar {
+    background-color: #262037;
+    border-color: transparent;
+    height: 5%;
+    width: 12%;
+    border-radius: 5px;
+    color: #FFF;
+    margin-left: 4%;
+}
+
+textarea {
+    width: 75.5%;
+    height: 25%;
+    line-height: 100%;
+    max-width: 75.5%;
+}
+
+form label {
+    color: #FFFFFF;
+    font-weight: bold;
+}
